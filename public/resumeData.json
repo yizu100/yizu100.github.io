@@ -9,7 +9,6 @@
     "email": "zuyi@bu.edu",
     "phone": "617-595-3133",
     "address": {
-      "street": "Via le Mani dal Naso",
       "city": "Turin",
       "state": "Piedmont",
       "zip": "10127"
@@ -66,18 +65,63 @@
     "skills": [
       {
         "name": "Git",
-        "description": "ispfslf jslkjflk sjflkjs klfjs lkjfs",
+        "description": "Preferred website for version control. Used in professional and personal setting.",
         "image": "gitIcon.png"
       },
       {
-        "name": "React",
-        "description": "60%",
-        "image": "gitIcon.png"
+        "name": "HTML",
+        "description": "Used at the start of my front-end development journey to build websites.",
+        "image": "htmlImage.png"
+      },
+      {
+        "name": "CSS",
+        "description": "Used in combination with HTML and JS at the start of my front-end development journey.",
+        "image": "cssImage.png"
       },
       {
         "name": "JavaScript",
-        "description": "60%",
-        "image": "gitIcon.png"
+        "description": "All of the frontend projects built included JavaScript. Learnt also jQuery at UC San Diego.",
+        "image": "javascriptImage.png"
+      },
+      {
+        "name": "Bootstrap",
+        "description": "Preferred language of choice for quickly layouting a website. Like how it can be easily be used to build responsive websites.",
+        "image": "bootstrapImage.png"
+      },
+      {
+        "name": "Python",
+        "description": "First programming language learned and used to create a webscraping script at New Alchemy.",
+        "image": "pythonImage.png"
+      },
+      {
+        "name": "React",
+        "description": "New to this web framework and looking to use this framework professionally and at hackathons",
+        "image": "reactImage.png"
+      },
+      {
+        "name": "Node JS",
+        "description": "Preferred server-side scripting langauge. Used in combination with REST APIs.",
+        "image": "nodeImage.png"
+      },
+      {
+        "name": "Java",
+        "description": "My first computer science classes at UC San Diego were taught in Java. Mostly used to complete academic programming assignments.",
+        "image": "javaImage.png"
+      },
+      {
+        "name": "C",
+        "description": "Used with C++ for data structures and object-oriented design class at UC San Diego.",
+        "image": "cImage.png"
+      },
+      {
+        "name": "MongoDB",
+        "description": "Document database mostly used for small applicatons and hackathons.",
+        "image": "mongoImage.png"
+      },
+      {
+        "name": "Heroku",
+        "description": "Preferred hosting and deployment platform because of its easy integration with Github.",
+        "image": "herokuImage.png"
       }
     ]
   },
