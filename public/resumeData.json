@@ -2,7 +2,7 @@
   "main": {
     "name": "Yi Zu",
     "occupation": "Web Developer",
-    "description": "I have a passion in building social impact technologies and consumer products that have an influence on people's lifestyles. Determined, organized, team oriented, multicultural and enthusiastic. I love learning visually and kinesthetically to gain depth of knowledge in the work place. In my free time, I love staying fit, traveling and watching soccer.",
+    "description": "I have a passion for building social impact technologies and consumer products that have an influence on people's lifestyles. Determined, organized, team oriented, multicultural and enthusiastic. I love learning visually and kinesthetically to gain depth of knowledge in the work place. In my free time, I love staying fit, traveling and watching soccer.",
     "image": "profilepic.jpg",
     "bio": "Growing up in Italy from a Chinese family, I love embracing diversity and different cultures in my personal and professional life. I Love building social impact products in the fitness and education space to empower youth in the world. I specialize in building user interfaces in JavaScript, HTML, CSS and React.",
     "contactmessage": "Looking to for junior software jobs/internships. Contact me if you see a fit with my personality and work experience.",
@@ -35,11 +35,11 @@
     ]
   },
   "resume": {
-    "skillmessage": "",
+    "skillmessage": "These are the technologies that I love to tinker and build awesome stuff",
     "education": [
       {
         "school": "University of California, San Diego",
-        "degree": "Web Development Certification Program",
+        "degree": "University & Professional Studies Program",
         "graduated": "June 2019",
         "description": "Relevant coursework: Introduction to Programming in Java, HTML5 & CSS & JavaScript, Human-Computer Interaction Programming Studio, Interaction Design, Linear Algebra"
       },
@@ -66,23 +66,18 @@
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "description": "ispfslf jslkjflk sjflkjs klfjs lkjfs",
+        "image": "gitIcon.png"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "React",
+        "description": "60%",
+        "image": "gitIcon.png"
       },
       {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "50%"
+        "name": "JavaScript",
+        "description": "60%",
+        "image": "gitIcon.png"
       }
     ]
   },
