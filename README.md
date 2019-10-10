@@ -4,7 +4,9 @@
 
 ## Credits
 ## Resume Template
-This website was built with  ReactJS template by Tim Baker. Thank you Tim! 
+This website was built with  ReactJS template by 
+<a href="https://github.com/tbakerx/">Tim Baker</a>. Thank you Tim! 
+
 His React resume website template can be found <a href="https://github.com/tbakerx/react-resume-template">HERE.</a>
 
 #### HTML Design Template
