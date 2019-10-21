@@ -1,6 +1,6 @@
 # Yi's Personal Website  
 ![Landing Page](landingPageYi.png)
-### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
+### <a href="http://zuyi.me/">LIVE DEMO</a> 
 
 ## Credits
 ## Resume Template
