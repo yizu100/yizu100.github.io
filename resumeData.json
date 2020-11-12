@@ -38,13 +38,13 @@
     "education": [
       {
         "school": "Northeastern University",
-        "degree": "M.S. Computer Sicence",
+        "degree": "M.S. Computer Science",
         "graduated": "Expected Sept. 2023"
       },
       {
         "school": "University of California, San Diego",
         "degree": "University & Professional Studies Program",
-        "graduated": "June 2019",
+        "graduated": "Sept. 2018 - June 2019",
         "description": "Relevant coursework: Introduction to Programming in Java, HTML5 & CSS & JavaScript, Human-Computer Interaction Programming Studio, Interaction Design, Linear Algebra"
       },
       {
@@ -96,7 +96,7 @@
       },
       {
         "name": "Bootstrap",
-        "description": "Preferred frontend library of choice for quickly layouting a website. Like how it can be easily be used to build responsive websites.",
+        "description": "Preferred library of choice for quickly building responsive websites.",
         "image": "bootstrapImage.png"
       },
       {
