@@ -14,7 +14,7 @@
       "zip": "10127"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://docdro.id/mNIp8eb",
+    "resumedownload": "https://docdro.id/FoTsWVQ",
     "social": [
       {
         "name": "linkedin",
@@ -37,6 +37,11 @@
     "skillmessage": "These are the technologies that I love to tinker and build awesome stuff",
     "education": [
       {
+        "school": "Northeastern University",
+        "degree": "M.S. Computer Sicence",
+        "graduated": "Expected Sept. 2023"
+      },
+      {
         "school": "University of California, San Diego",
         "degree": "University & Professional Studies Program",
         "graduated": "June 2019",
@@ -49,6 +54,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Coderbunker",
+        "title": "Freelance Web Developer",
+        "years": "Aug. 2020 - Current",
+        "description": "• Develop responsive login and error page interface based on design and product requirements for customer’s retail clients \n• Create custom components and user interface for customer’s dashboard to track retail shop’s use of the music player \n• Integrate custom components to build a responsive music player for desktop and tablet"
+      },
       {
         "company": "Golf AI",
         "title": "Web Development Intern",
@@ -80,12 +91,12 @@
       },
       {
         "name": "JavaScript",
-        "description": "All of the frontend projects built included JavaScript. Learnt also jQuery at UC San Diego.",
+        "description": "All of the frontend projects built included JavaScript. Also learnt jQuery at UC San Diego.",
         "image": "javascriptImage.png"
       },
       {
         "name": "Bootstrap",
-        "description": "Preferred language of choice for quickly layouting a website. Like how it can be easily be used to build responsive websites.",
+        "description": "Preferred frontend library of choice for quickly layouting a website. Like how it can be easily be used to build responsive websites.",
         "image": "bootstrapImage.png"
       },
       {
@@ -149,7 +160,7 @@
         "title": "Releaf",
         "category": "Natural Disaster News Platform with Volunteer and Donation Forms",
         "image": "releaf.png",
-        "url": "https: //github.com/chints98/COGS-121-Project"
+        "url": "https://github.com/chints98/COGS-121-Project"
       }
     ]
   },
