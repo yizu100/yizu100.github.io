@@ -76,7 +76,7 @@
     "skills": [
       {
         "name": "Git",
-        "description": "Preferred website for version control. Used in professional and personal setting.",
+        "description": "Preferred version control system. Used in professional and personal setting.",
         "image": "gitIcon.png"
       },
       {
@@ -106,7 +106,7 @@
       },
       {
         "name": "React",
-        "description": "New to this web framework and looking to use this framework professionally and at hackathons",
+        "description": "Preferred web framework used for professional and personal projects.",
         "image": "reactImage.png"
       },
       {
