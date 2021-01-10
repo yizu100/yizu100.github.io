@@ -70,11 +70,6 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "description": "Preferred version control system. Used in professional and personal setting.",
-        "image": "gitIcon.png"
-      },
-      {
         "name": "HTML",
         "description": "Used at the start of my front-end development journey to build websites.",
         "image": "htmlImage.png"
@@ -90,19 +85,24 @@
         "image": "javascriptImage.png"
       },
       {
-        "name": "Bootstrap",
-        "description": "Preferred library of choice for quickly building responsive websites.",
-        "image": "bootstrapImage.png"
-      },
-      {
-        "name": "Python",
-        "description": "First programming language learned and used to create a webscraping script at New Alchemy.",
-        "image": "pythonImage.png"
+        "name": "TypeScript",
+        "description": "Used for freelance project at Coderbunker and continuously monitoring growth of this language.",
+        "image": "typescript.png"
       },
       {
         "name": "React",
         "description": "Preferred web framework used for professional and personal projects.",
         "image": "reactImage.png"
+      },
+      {
+        "name": "Material-UI",
+        "description": "Preferred library of choice for quickly building responsive websites.",
+        "image": "materialUI.png"
+      },
+      {
+        "name": "Python",
+        "description": "First programming language learned and used to create a webscraping script at New Alchemy.",
+        "image": "pythonImage.png"
       },
       {
         "name": "Node JS",
@@ -115,14 +115,14 @@
         "image": "javaImage.png"
       },
       {
-        "name": "C",
-        "description": "Used with C++ for data structures and object-oriented design class at UC San Diego.",
-        "image": "cImage.png"
-      },
-      {
         "name": "MongoDB",
         "description": "Document database mostly used for small applicatons and hackathons.",
         "image": "mongoImage.png"
+      },
+      {
+        "name": "Git",
+        "description": "Preferred version control system. Used in professional and personal setting.",
+        "image": "gitIcon.png"
       },
       {
         "name": "Heroku",
