@@ -14,21 +14,21 @@
       "zip": "10127"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://docdro.id/7NhVkfN",
+    "resumedownload": "https://www.docdroid.net/2z3sZ8w/yizu-resume-feb2021-pdf",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/yi-zu/",
+        "url": "https://www.linkedin.com/in/yizu/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/zuyi10/",
+        "url": "https://www.instagram.com/yizucodes/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/yizu100/",
+        "url": "https://github.com/yizucodes/",
         "className": "fa fa-github"
       }
     ]
@@ -149,13 +149,13 @@
         "title": "VeriFood",
         "category": "Identity Verification System for Homeless People to Access Digital Food Stamps",
         "image": "verifoodHome.png",
-        "url": "https://github.com/yizu100/Verifood-AngelHack"
+        "url": "https://github.com/yizucodes/Verifood-AngelHack"
       },
       {
         "title": "Releaf",
         "category": "Natural Disaster News Platform with Volunteer and Donation Forms",
         "image": "releaf.png",
-        "url": "https://github.com/chints98/COGS-121-Project"
+        "url": "https://github.com/yizucodes/COGS-121-Project"
       }
     ]
   },
