@@ -27,6 +27,11 @@
         "className": "fa fa-instagram"
       },
       {
+      "name": "twitter",
+      "url": "https://twitter.com/yizucodes",
+      "className": "fa fa-twitter"
+      },
+      {
         "name": "github",
         "url": "https://github.com/yizucodes/",
         "className": "fa fa-github"
