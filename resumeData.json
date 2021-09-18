@@ -14,7 +14,7 @@
       "zip": "10127"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://www.docdroid.net/2z3sZ8w/yizu-resume-feb2021-pdf",
+    "resumedownload": "https://drive.google.com/file/d/1iDIWoWRA01dBBj49rove-r6E8LPkrEsI/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -54,10 +54,22 @@
       }
     ],
     "work": [
+            {
+        "company": "Blue Reply",
+        "title": "Frontend Developer",
+        "years": "June 2021 - Current",
+        "description": "• Integrate user and retail store data to the user interface allowing client to manage privileges and view reports \n • Refactor legacy codebase of international eyewear company’s e-commerce platform to improve performance and scalability \n• Create feature allowing eyewear customer to input additional shopper information and gather shopping preferences"
+      },
+      {
+        "company": "Self-employed",
+        "title": "Freelance Web Developer",
+        "years": "Feb. 2021 - May 2021",
+        "description":  "• Develop website based on design and client requirements to increase brand awareness and course registrations\n• Integrate content management system with website allowing client to independently add or modify website content"
+      },
       {
         "company": "Coderbunker",
         "title": "Freelance Web Developer",
-        "years": "Aug. 2020 - Current",
+        "years": "Aug. 2020 - Jan. 2021",
         "description": "• Develop responsive login and error page interface based on design and product requirements for customer’s retail clients \n• Create custom components and user interface for customer’s dashboard to track retail shop’s use of the music player \n• Integrate custom components to build a responsive music player for desktop and tablet \n• Build announcement table feature to integrate retail store announcements with music player"
       },
       {
