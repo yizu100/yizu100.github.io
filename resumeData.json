@@ -111,6 +111,11 @@
         "description": "Preferred web framework used for professional and personal projects.",
         "image": "reactImage.png"
       },
+            {
+        "name": "Redux",
+        "description": "State management library used to build enterprise applications.",
+        "image": "redux.png"
+      },
       {
         "name": "Material-UI",
         "description": "Preferred library of choice for quickly building responsive websites.",
@@ -125,11 +130,6 @@
         "name": "Node JS",
         "description": "Preferred server-side scripting langauge. Used in combination with REST APIs.",
         "image": "nodeImage.png"
-      },
-      {
-        "name": "Java",
-        "description": "My first computer science classes at UC San Diego were taught in Java. Mostly used to complete academic programming assignments.",
-        "image": "javaImage.png"
       },
       {
         "name": "MongoDB",
@@ -150,6 +150,12 @@
   },
   "portfolio": {
     "projects": [
+            {
+        "title": "physyou",
+        "category": "physyou is a telehealth platform for physical therapists to prescribe exercises and monitor a patient's performance",
+        "image": "physyou.png",
+        "url": "https://devpost.com/software/physyou"
+      },
       {
         "title": "Lemon",
         "category": "Food supply chain management platform for grocery stores",
@@ -167,12 +173,6 @@
         "category": "Identity Verification System for Homeless People to Access Digital Food Stamps",
         "image": "verifoodHome.png",
         "url": "https://github.com/yizucodes/Verifood-AngelHack"
-      },
-      {
-        "title": "Releaf",
-        "category": "Natural Disaster News Platform with Volunteer and Donation Forms",
-        "image": "releaf.png",
-        "url": "https://github.com/yizucodes/COGS-121-Project"
       }
     ]
   },
