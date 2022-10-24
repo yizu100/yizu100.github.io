@@ -9,12 +9,12 @@
     "email": "yi.zu@hotmail.com",
     "phone": "Contact me via email",
     "address": {
-      "city": "Turin",
-      "state": "Piedmont",
-      "zip": "10127"
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02219"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1iDIWoWRA01dBBj49rove-r6E8LPkrEsI/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1vW11wOYHGFOpvOAHbLt_1_7aMBo-1ir6/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -42,6 +42,11 @@
     "skillmessage": "These are the technologies that I love to tinker and build awesome stuff",
     "education": [
       {
+        "school": "Northeastern University",
+        "degree": "M.S. Computer Science",
+        "graduated": "Sept. 2022 - Current"
+      },
+      {
         "school": "University of California, San Diego",
         "degree": "University & Professional Studies Program",
         "graduated": "Sept. 2018 - June 2019",
@@ -57,7 +62,7 @@
             {
         "company": "Blue Reply",
         "title": "Frontend Developer",
-        "years": "June 2021 - Current",
+        "years": "June 2021 - Aug. 2022",
         "description": "• Integrate user and retail store data to the user interface allowing client to manage privileges and view reports \n • Refactor legacy codebase of international eyewear company’s e-commerce platform to improve performance and scalability \n• Create feature allowing eyewear customer to input additional shopper information and gather shopping preferences"
       },
       {
