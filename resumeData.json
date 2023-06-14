@@ -161,7 +161,13 @@
   },
   "portfolio": {
     "projects": [
-            {
+      {
+        "title": "Readit",
+        "category": "Readit is a social news and discussion application runnable on the command line interface",
+        "image": "reddit.png",
+        "url": "https://github.com/yizucodes/readit"
+      },
+      {
         "title": "physyou",
         "category": "physyou is a telehealth platform for physical therapists to prescribe exercises and monitor a patient's performance",
         "image": "physyou.png",
@@ -172,12 +178,6 @@
         "category": "Food supply chain management platform for grocery stores",
         "image": "lemonhacksc.png",
         "url": "https://lemonhacksc.herokuapp.com/"
-      },
-      {
-        "title": "Soccer Without Borders",
-        "category": "Soccer video showcase website for underpriviledge teenagers",
-        "image": "SWB_ScreenShot.png",
-        "url": "https://soccerwithoutborders.herokuapp.com/"
       },
       {
         "title": "VeriFood",
