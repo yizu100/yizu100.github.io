@@ -109,12 +109,12 @@
       },
       {
         "name": "JavaScript",
-        "description": "All of the frontend projects built included JavaScript. Also learnt jQuery at UC San Diego.",
+        "description": "Most of the frontend projects built included JavaScript. Also learnt jQuery at UC San Diego.",
         "image": "javascriptImage.png"
       },
       {
         "name": "TypeScript",
-        "description": "Used for freelance project at Coderbunker and continuously monitoring growth of this language.",
+        "description": "Used at Coderbunker and during work experience at Reply. Enjoying the type safety!",
         "image": "typescript.png"
       },
       {
@@ -138,6 +138,11 @@
         "image": "pythonImage.png"
       },
       {
+        "name": "Java",
+        "description": "Used for introductory programming courses at UC San Diego and object-oriented design class at Northeastern University.",
+        "image": "javaImage.png"
+      },
+      {
         "name": "Node JS",
         "description": "Preferred server-side scripting langauge. Used in combination with REST APIs.",
         "image": "nodeImage.png"
@@ -151,11 +156,6 @@
         "name": "Git",
         "description": "Preferred version control system. Used in professional and personal setting.",
         "image": "gitIcon.png"
-      },
-      {
-        "name": "Heroku",
-        "description": "Preferred hosting and deployment platform because of its easy integration with Github.",
-        "image": "herokuImage.png"
       }
     ]
   },
