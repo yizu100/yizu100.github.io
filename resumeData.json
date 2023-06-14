@@ -59,7 +59,13 @@
       }
     ],
     "work": [
-            {
+      {
+        "company": "E.R.WEB",
+        "title": "Frontend Developer",
+        "years": "May 2023 - Current",
+        "description": "• Implement error handling for user authentication to enhance security and streamline user flow \n • Integrate external data sources to enhance user experience and web application’s functionality"
+      },
+      {
         "company": "Blue Reply",
         "title": "Frontend Developer",
         "years": "June 2021 - Aug. 2022",
