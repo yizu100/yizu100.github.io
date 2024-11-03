@@ -4,7 +4,7 @@
     "occupation": "Web Developer",
     "description": "I have a passion for building social impact technologies and consumer products that have an influence on people's lifestyles. Determined, organized, team oriented, multicultural and enthusiastic. I love learning visually and kinesthetically to gain depth of knowledge in the work place. In my free time, I love staying fit, boxing, surfing, soccer and traveling the world",
     "image": "profilepic.jpg",
-    "bio": "Growing up in Italy from a Chinese family, I love embracing diversity and different cultures in my personal and professional life. I Love building social impact products in the fitness and education space to empower youth in the world. I specialize in building user interfaces in JavaScript, HTML, CSS and React.",
+    "bio": "Growing up in Italy from a Chinese family, I love embracing diversity and different cultures in my personal and professional life. I Love building social impact products in the fitness and education space to empower youth in the world. I enjoying building applications with React, TypeScript/JavaScript and Python.",
     "contactmessage": "Looking to for junior software jobs/internships. Contact me if you see a fit with my personality and work experience.",
     "email": "yi.zu@hotmail.com",
     "phone": "Contact me via email",
@@ -14,22 +14,12 @@
       "zip": "02219"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1mTqW_Oc0UROnt3rMMIUV-7i6IDs7vbf6/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1nfpIpPOPBhyAg_Bu_Qn2TGAdfNzLUK3h/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/yizu/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/yizucodes/",
-        "className": "fa fa-instagram"
-      },
-      {
-      "name": "twitter",
-      "url": "https://twitter.com/yizucodes",
-      "className": "fa fa-twitter"
       },
       {
         "name": "github",
@@ -60,16 +50,22 @@
     ],
     "work": [
       {
+      "company": "CarGurus",
+      "title": "Software Engineer Co-op",
+      "years": "Jan. 2024 - June 2024",
+      "description": "• Collaborated cross-functionally with product managers, engineering managers, frontend and backend engineers, and designers in a 10-person team to develop vehicle detail and post-lead pages for a multi-platform web application\n• Contributed to the marketing vehicle detail page using React and TypeScript by standardizing the codebase for consistency and readability, increasing developer productivity, merging 13 pull requests, and adding 600+ lines of code\n• Migrated 10 legacy user interface components to a custom Radix UI library in a codebase 50,000+ lines of code, enhancing modularity and scalability while reducing technical debt, complexity, and bugs, resulting in improved developer productivity\n• Implemented A/B testing framework using Java, React and TypeScript to evaluate performance of current user interface and investigate improvements based on conversion rate and core web vitals resulting in valuable insights for future optimizations\n• Engineered comprehensive unit tests with Jest and React Testing Library, achieving 90%+ coverage while enhancing code documentation, application stability, and overall codebase reliability"
+      },
+      {
         "company": "E.R.WEB",
         "title": "Frontend Developer",
         "years": "May 2023 - Aug. 2023",
-        "description": "• Implement error handling for user authentication to enhance security and streamline user flow \n • Integrate external data sources to enhance user experience and web application’s functionality"
+        "description": "• Integrated age and identity verification system with React Native and JavaScript reducing the average registration time by 50%\n• Optimized story highlights feature using JavaScript increasing user impressions of product instructions by 12%\n• Refactored a device location feature to bolster user experience improving customer retention by 19%"
       },
       {
         "company": "Blue Reply",
         "title": "Frontend Developer",
         "years": "June 2021 - Aug. 2022",
-        "description": "• Integrate user and retail store data to the user interface allowing client to manage privileges and view reports \n • Refactor legacy codebase of international eyewear company’s e-commerce platform to improve performance and scalability \n• Create feature allowing eyewear customer to input additional shopper information and gather shopping preferences"
+        "description": "Project: Whirlpool Analytics for Consumer Websites\n• Translated business requirements into technical requirements to support sprint planning activities\n• Identified risks and dependencies of technical specifications to inform stakeholders about trade-offs in performance\n• Trained new developers about analytics best practices to increase their knowledge and productivity with their respective teams\n\nProject: E-commerce Proof of Concept\n• Researched and presented slides about the Chinese e-commerce market leading to an international clothing brand sales lead\n• Researched internationalization and state management best practices to identify trade-offs in performance and scalability\n• Presented proof of concept e-commerce application to technical team leaders and developers to showcase the feasibility of migrating current e-commerce application to another frontend framework\n\nProject: Luxottica E-commerce Platform\n• Integrated user and retail store data to the user interface allowing client to manage privileges and view reports\n• Refactored legacy codebase of international eyewear company's e-commerce platform to improve performance and scalability\n• Created a feature allowing eyewear customers to input additional shopper information and gather shopping preferences"
       },
       {
         "company": "Self-employed",
@@ -162,6 +158,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "CarGurus Marketing VDP",
+        "category": "See more feature for car grid in marketing vehicle page",
+        "image": "carGurus.jpg",
+        "url": "https://www.loom.com/share/cbf41ea98f364620a054799a95a2f0b3"
+      },
+      {
         "title": "Readit",
         "category": "Readit is a social news and discussion application runnable on the command line interface",
         "image": "reddit.png",
@@ -172,6 +174,12 @@
         "category": "physyou is a telehealth platform for physical therapists to prescribe exercises and monitor a patient's performance",
         "image": "physyou.png",
         "url": "https://devpost.com/software/physyou"
+      },
+      {
+        "title": "Smart Social",
+        "category": "Instagram scheduler integration with Monday apps platform to automate posts on Instagram business profiles",
+        "image": "smart-social.svg",
+        "url": "https://devpost.com/software/smart-social-instagram-post-scheduling-integration"
       },
       {
         "title": "Lemon",
